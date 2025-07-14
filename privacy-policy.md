@@ -2,7 +2,7 @@
 
 **Effective Date:** [Insert Date]
 
-**ShopBook** ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and shared when you use our mobile application ("App").
+**ShopBook** we are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and shared when you use our mobile application ("App").
 
 ---
 
@@ -49,7 +49,7 @@ We **do not sell or share** your data. Only:
 You may:
 - Access or export your data
 - Delete your account and associated data
-- Contact us for help at **[your email]**
+- Contact us for help at **[absharulhuda@gmail.com]**
 
 ---
 
@@ -64,4 +64,4 @@ We may update this policy. Updates will be shown in the app or via update notes.
 ---
 
 ## 8. Contact Us
-📧 [your email or support link here]
+📧 [absharulhuda@gmail.com]
