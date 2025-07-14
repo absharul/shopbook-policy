@@ -2,7 +2,7 @@
 
 **Effective Date:** [Insert Date]
 
-**ShopBook** we are committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and shared when you use our mobile application ("App").
+**ShopBook** is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and shared when you use our mobile application ("App").
 
 ---
 
